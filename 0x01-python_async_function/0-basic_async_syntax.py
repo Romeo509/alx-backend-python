@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+""" Asynchronously waits for
+    a random delay between 0 and max delay secons."""
+
 import asyncio
 import random
 
